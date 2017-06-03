@@ -1,3 +1,9 @@
+node_modules
+dist
+min
+*.sublime-project
+*.sublime-workspace
+
 # Logs
 logs
 *.log
