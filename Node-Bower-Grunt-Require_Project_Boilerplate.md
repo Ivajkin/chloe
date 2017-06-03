@@ -2,16 +2,17 @@
 
 ## Starting point for project using Node, Bower, Grunt and Require.
 
-####Nodejs
+#### Nodejs
+
 This boilerplate is structured around several Node tools, which aim to reduce repetitive dev tasks and improve page load times of your final product by using concatenation, minification and image compression by default. It will also give you auto-prefixing on every save of your CSS and allow livereload of the page whenever you save in your editor.
 
-####Bower
+#### Bower
 A package manager created by Twitter. It can save time when pulling together all the libraries and front end tools that you repeatedly use across all your projects. It also ensures that each time you start a new project you are always using the most up to date versions of these libraries (where appropriate, you can also keep track of particular relases such as jQuery 1.10.2 if you are still supporting IE7).
 
-####Grunt
+#### Grunt
 Introduce a build process to easily deliver linted, concatenated, minified CSS and JavaScript files. Also compress your images to further reduce your page load times and deliver a better, more usuable, cross platform product.
 
-####RequireJS
+#### RequireJS
 Asynchronous AMD script loader to reduce dependency complications across your Javascripts and reduce page blocking scripts. 
 
 ### Set up
